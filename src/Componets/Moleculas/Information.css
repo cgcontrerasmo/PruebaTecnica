@@ -1,0 +1,43 @@
+.allInformation {
+  background: #dfd7f9;
+  border-radius: 20px 129px 20px 20px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 1170px;
+  height: 407px;
+  margin-top: 134px;
+  opacity: 0.2;
+}
+
+.allInformation .infoH3 {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  margin-top: 79px;
+  width: 859px;
+  height: 108px;
+  margin-left: 156px;
+}
+
+.allInformation h3 {
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 54px;
+  text-align: center;
+  color: #5e6282;
+}
+
+.allInformation .form {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  margin-top: 66px;
+}
+
+.allInformation .input {
+  width: 421px;
+  height: 68px;
+  margin-left: 252px;
+}
+
+.allInformation Button {
+  width: 180px;
+  height: 68px;
+  background: linear-gradient(180deg, #ff946d 0%, #ff7d68 100%);
+  border-radius: 10px;
+}

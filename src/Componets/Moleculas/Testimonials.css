@@ -3,7 +3,7 @@
 .allTestimonials {
   margin-top: 209px;
 }
-h3 {
+.allTestimonials h3 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
@@ -12,10 +12,10 @@ h3 {
   text-transform: uppercase;
   color: #5e6282;
   margin-top: 0px;
-  margin-block-end: 8px;
+  margin-bottom: 8px;
 }
 
-h2 {
+.allTestimonials h2 {
   font-family: Volkhov;
   font-style: normal;
   font-weight: bold;
@@ -30,7 +30,22 @@ h2 {
   align-items: center;
 }
 
-.image {
-  padding-right: 100px;
-  mix-blend-mode: luminosity;
+.allTestimonials .image .Axon {
+  margin-left: 32px;
+}
+
+.allTestimonials .image .Jetstart {
+  margin-left: 102px;
+}
+
+.allTestimonials .image .Expedia {
+  margin-left: 73.14px;
+}
+
+.allTestimonials .image .Qantas {
+  margin-left: 52px;
+}
+
+.allTestimonials .image .Alitalia {
+  margin-left: 90px;
 }

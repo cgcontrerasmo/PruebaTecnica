@@ -20,23 +20,36 @@ const Testimonials = () => {
           <Carouseles></Carouseles>
         </Col>
       </Row>
-      <Row className="imagesTestimonials offset-1">
-        <Col xs="2">
-          <img src={Axon} className="image" />
-        </Col>
-        <Col xs="2">
-          <img src={Jetstar} className="image" />
-        </Col>
-        <Col xs="2">
-          <img src={Expedia} className="image" />
-        </Col>
-        <Col xs="2">
-          <img src={Qantas} className="image" />
-        </Col>
-        <Col xs="2">
-          <img src={Alitalia} className="image" />
-        </Col>
-      </Row>
+      <div className="image">
+        <Row className="imagesTestimonials">
+          {/*  offset-1" */}
+          <Col xs="2">
+            <div className="Axon">
+              <img src={Axon} />
+            </div>
+          </Col>
+          <Col xs="3">
+            <div className="Jetstart">
+              <img src={Jetstar} />
+            </div>
+          </Col>
+          <Col xs="3">
+            <div className="Expedia">
+              <img src={Expedia} />
+            </div>
+          </Col>
+          <Col xs="2">
+            <div className="Qantas">
+              <img src={Qantas} />
+            </div>
+          </Col>
+          <Col xs="2">
+            <div className="Alitalia">
+              <img src={Alitalia} />
+            </div>
+          </Col>
+        </Row>
+      </div>
     </Container>
   );
 };

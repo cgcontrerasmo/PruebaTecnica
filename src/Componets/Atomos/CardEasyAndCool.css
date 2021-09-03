@@ -92,16 +92,3 @@
   top: 220px;
   right: -100px;
 }
-
-.allCardEasyAndCool .fondcircule {
-  position: absolute;
-  height: 367px;
-  width: 354px;
-  background: #59b1e6;
-  opacity: 0.8;
-  filter: blur(150px);
-  border-radius: 50%;
-  z-index: -1;
-  top: -100px;
-  right: -100px;
-}
