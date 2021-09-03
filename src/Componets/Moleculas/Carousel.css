@@ -1,0 +1,33 @@
+.carousel-item {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+
+.carousel-control-prev {
+  right: 0;
+  left: auto;
+}
+
+.carousel-control-next-icon {
+  margin-top: 30px;
+  background-image: url("/src/images/Prev.png");
+  width: 14px;
+  height: 7px;
+}
+
+.carousel-control-prev-icon {
+  margin-bottom: 30px;
+  background-image: url("/src/images/Next.png");
+  width: 14px;
+  height: 7px;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: auto;
+}

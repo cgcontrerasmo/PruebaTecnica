@@ -1,11 +1,11 @@
 .allInformation {
-  background: #dfd7f9;
+  background: rgba(223, 215, 249, 0.2);
   border-radius: 20px 129px 20px 20px;
   transform: matrix(-1, 0, 0, 1, 0, 0);
   width: 1170px;
   height: 407px;
   margin-top: 134px;
-  opacity: 0.2;
+  position: relative;
 }
 
 .allInformation .infoH3 {
@@ -33,6 +33,19 @@
   width: 421px;
   height: 68px;
   margin-left: 252px;
+  border-color: transparent;
+  border: 1px;
+}
+
+.allInformation .input-group-text {
+  background: white;
+  border-color: transparent;
+  border: 0px;
+}
+
+.allInformation .form-control {
+  border-color: transparent;
+  border: 1px;
 }
 
 .allInformation Button {
@@ -40,4 +53,33 @@
   height: 68px;
   background: linear-gradient(180deg, #ff946d 0%, #ff7d68 100%);
   border-radius: 10px;
+  border: 0px;
+}
+
+.allInformation .imgEsferasIzquierda {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  position: absolute;
+  top: 46px;
+  z-index: -1;
+  right: -55px;
+}
+
+.allInformation .imgEsferasDerecha {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  opacity: 0.2;
+}
+
+.allInformation .imgSendAzul {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  position: absolute;
+  top: -20px;
+  left: -20px;
+}
+
+.allInformation .imgEmail {
+  margin-left: 15px;
+  padding-right: 2px;
 }

@@ -12,11 +12,11 @@ const Testimonials = () => {
   return (
     <Container className="allTestimonials">
       <Row>
-        <Col xs="6">
+        <Col xs="5">
           <h3>TESTIMONIALS</h3>
           <h2>What people say about Us.</h2>
         </Col>
-        <Col xs="6">
+        <Col xs="7">
           <Carouseles></Carouseles>
         </Col>
       </Row>

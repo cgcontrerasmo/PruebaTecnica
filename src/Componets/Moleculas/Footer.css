@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+.allFooter {
+  margin-top: 187px;
+  text-align: center;
+}
+
+.allFooter h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 124.5%;
+  letter-spacing: 0.005em;
+  color: #5e6282;
+}
+
+.allFooter h3 {
+  margin-bottom: 34px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 124.5%;
+}
+
+.allFooter h4 {
+  margin-bottom: 13px;
+  text-align: left;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 124.5%;
+  color: #5e6282;
+}
+.allFooter .col-4 {
+  padding: 0px;
+  width: 65px;
+  height: 65px;
+}
+
+.allFooter .imgFacebook {
+  padding-right: 2.5px;
+}
+
+.allFooter .imgTwitter {
+  padding-left: 2.5px;
+}
+
+.allFooter h2 {
+  padding-top: 16px;
+  text-align: left;
+}
+
+.allFooter .imgGooglePlay {
+  height: 35px;
+  width: 107px;
+}
+
+.allFooter .imgAppleStore {
+  padding-left: 7px;
+  justify-content: left;
+}
+
+.allFooter .correoContact {
+  margin-top: 90px;
+}
