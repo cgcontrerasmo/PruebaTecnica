@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.nav-link {
+  font-family: "Open Sans", sans-serif;
+  padding-right: 64px !important;
+  color: #212832 !important;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 9px 22px;
+  margin-right: 64px;
+}

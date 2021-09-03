@@ -1,0 +1,36 @@
+h2 {
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-block-end: 31px;
+}
+.allEasyAndCool h3 {
+  text-transform: none;
+  margin-block-end: 15px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.allEasyAndCool {
+  margin-top: 186px;
+  position: relative;
+}
+
+.allEasyAndCool h3 {
+  color: #5e6282;
+}
+
+.allEasyAndCool .fondcircule {
+  position: absolute;
+  height: 267px;
+  width: 254px;
+  background: #59b1e6;
+  opacity: 0.8;
+  filter: blur(150px);
+  border-radius: 50%;
+  z-index: -1;
+  top: 26px;
+  right: 50px;
+}

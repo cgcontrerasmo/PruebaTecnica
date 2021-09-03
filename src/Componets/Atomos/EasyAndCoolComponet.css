@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+.allEasyAndCoolComponet .title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5e6282;
+  padding: 0px;
+  margin-bottom: 4px;
+}
+
+.allEasyAndCoolComponet .body p {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5e6282;
+}
+
+.allEasyAndCoolComponet .body {
+  height: 40px;
+  width: 327px;
+  margin-bottom: 48px;
+  padding: 0px;
+}
+.allEasyAndCoolComponet .images {
+  padding-right: 0px;
+  margin-top: 4px;
+}
+
+.allEasyAndCoolComponet {
+  padding: 0px;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+.allTestimonials {
+  margin-top: 209px;
+}
+h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: #5e6282;
+  margin-top: 0px;
+  margin-block-end: 8px;
+}
+
+h2 {
+  font-family: Volkhov;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 64px;
+  text-transform: capitalize;
+  color: #14183e;
+}
+
+.imagesTestimonials {
+  margin-top: 80px;
+  align-items: center;
+}
+
+.image {
+  padding-right: 100px;
+  mix-blend-mode: luminosity;
+}

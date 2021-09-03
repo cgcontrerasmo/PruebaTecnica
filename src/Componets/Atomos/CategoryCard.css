@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Volkhov:wght@700&display=swap");
+
+.allCategoryCard h4 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  color: #1e1d4c;
+  padding-top: 29px;
+  width: 190px;
+}
+
+.allCategoryCard p {
+  color: #5e6282;
+  font-weight: 500;
+  line-height: 26px;
+  font-weight: 500;
+  padding-top: 7px;
+  width: 181px;
+}
+
+.imageCategoryCard {
+  height: 96px;
+}

@@ -1,0 +1,67 @@
+.allSellingCard p {
+  color: #5e6282;
+}
+
+.cardimage {
+  width: 314px;
+  height: 327px;
+  position: relative;
+  background-color: white;
+  overflow: hidden;
+}
+
+.description {
+  margin-top: 27px;
+  padding-left: 20px;
+  height: 103px;
+}
+
+.description .titel {
+  padding: 0px;
+  text-align: left;
+}
+
+.description p {
+  font-weight: 500;
+  line-height: 124.5%;
+}
+.description .price {
+  padding-right: 41px;
+  text-align: right;
+}
+
+.description img {
+  padding-left: 1.87px;
+}
+.cardimage img {
+  position: absolute;
+  left: -80px;
+}
+
+.allSellingCard {
+  width: 314px;
+  padding: 0px;
+  filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.02))
+    drop-shadow(0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852))
+    drop-shadow(0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481))
+    drop-shadow(0px 20px 13px rgba(0, 0, 0, 0.01))
+    drop-shadow(0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185))
+    drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481));
+  border-radius: 24px;
+  background-color: white;
+  overflow: hidden;
+}
+
+.allSellingCard .row {
+  margin-left: 0px;
+}
+
+.description .col-1 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.description .days {
+  padding-left: 15.88px;
+  text-align: left;
+}

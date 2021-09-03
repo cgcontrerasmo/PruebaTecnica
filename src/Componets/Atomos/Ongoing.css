@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+.allOngoing {
+  height: 129px;
+  width: 263px;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02),
+    0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852),
+    0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481),
+    0px 20px 13px rgba(0, 0, 0, 0.01),
+    0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185),
+    0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+  border-radius: 18px;
+  background-color: white;
+}
+
+.allOngoing h3 {
+  margin-top: 6px;
+  margin-bottom: 14px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 124.5%;
+  letter-spacing: -0.015em;
+  color: #080809;
+}
+
+.allOngoing h4 {
+  font-family: "Poppins";
+  margin-bottom: 0px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 124.5%;
+  letter-spacing: -0.035em;
+  color: #84829a;
+  margin-top: 16px;
+}
+
+.allOngoing .ongoingimg img {
+  border-radius: 50%;
+  margin-top: 16px;
+}
